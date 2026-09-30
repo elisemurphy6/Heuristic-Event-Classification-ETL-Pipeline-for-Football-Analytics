@@ -35,8 +35,8 @@ Located in `auto_tag.py`, this script:
 This component is fully functional and represents the core logic of the project.
 
 ### **3. Legacy Data‑Load Scripts (Optional / Deprecated)**
-Before learning direct Excel → SQL import, the project used Python scripts to insert each table row manually.  
-These scripts are kept only as historical artifacts showing the early ETL approach.  
+Before learning direct Excel → SQL import, the project used SQL commands to insert each table row manually.  
+These commands are kept only as historical artifacts showing the early ETL approach.  
 They are not required for the current workflow.
 
 ---
